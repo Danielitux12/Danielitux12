@@ -4,59 +4,67 @@
 
 ### Software Developer | Full Stack .NET | C# · ASP.NET Core · Angular
 
-Construyo aplicaciones web modernas con arquitectura limpia, APIs REST, bases de datos relacionales y buenas prácticas de desarrollo.
+Construyo aplicaciones web modernas combinando buenas prácticas de ingeniería,
+arquitectura limpia y experiencia de usuario.
 
 [![Visitas al perfil](https://komarev.com/ghpvc/?username=Danielitux12&label=Visitas&color=512BD4&style=flat)](https://github.com/Danielitux12)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Danielitux12-181717?style=flat&logo=github&logoColor=white)](https://github.com/Danielitux12)
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mí
+# 🧑‍💻 Sobre mí
 
-Soy desarrollador de software enfocado en crear soluciones web escalables y mantener código limpio, organizado y fácil de evolucionar.
+Soy desarrollador de software enfocado en crear aplicaciones web completas, desde interfaces interactivas hasta APIs y sistemas backend escalables.
 
-Actualmente estoy especializado en el ecosistema **.NET**, trabajando con **C#**, **ASP.NET Core**, **Entity Framework Core** y **PostgreSQL**, aplicando conceptos como arquitectura en capas, separación de responsabilidades y diseño orientado a objetos.
+Actualmente estoy especializado en el ecosistema **.NET**, trabajando principalmente con **C#**, **ASP.NET Core**, **Entity Framework Core**, **PostgreSQL** y **Angular**.
 
-- 🔭 Actualmente desarrollo **Firmeza**, una plataforma de gestión empresarial con .NET y Angular.
-- 🌱 Profundizando en **Clean Architecture**, **ASP.NET Core**, **Entity Framework Core**, **Docker** y buenas prácticas de backend.
-- 🏗️ Me interesa construir aplicaciones con código mantenible, APIs bien estructuradas y bases de datos eficientes.
-- 💬 Puedo conversar sobre **C#, .NET, ASP.NET Core, PostgreSQL, APIs REST y desarrollo web**.
-- 🤝 Abierto a colaborar en proyectos, aprender nuevas tecnologías y recibir feedback sobre mi código.
+Me interesa escribir código limpio, diseñar soluciones mantenibles y aplicar buenas prácticas como arquitectura por capas, principios SOLID y separación de responsabilidades.
+
+- 🔭 Actualmente desarrollo proyectos personales como **Reaction Time Tester** y **Firmeza**.
+- 🌱 Profundizando en **C#/.NET, ASP.NET Core, Angular, Clean Architecture y Docker**.
+- 🏗️ Interesado en construir aplicaciones escalables y preparadas para producción.
+- 💬 Puedo conversar sobre **C#, .NET, APIs REST, PostgreSQL, Angular y desarrollo web**.
+- 🤝 Abierto a colaborar en proyectos y recibir feedback para mejorar como desarrollador.
 
 ---
 
-## 🚀 Mi evolución como desarrollador
+# 🚀 Mi camino como desarrollador
 
-Comencé desarrollando aplicaciones web con tecnologías como:
+Mi experiencia comenzó con el desarrollo web utilizando tecnologías como:
 
-- JavaScript / TypeScript
+- JavaScript
+- TypeScript
 - Node.js
 - Express.js
 - PostgreSQL
 
-Actualmente mi principal enfoque está en:
+Actualmente mi principal enfoque está en el ecosistema Microsoft:
 
 - C#
 - .NET
 - ASP.NET Core
+- Entity Framework Core
 - Angular
 
-Combinando conocimientos de frontend y backend para construir aplicaciones completas.
+Combinando conocimientos de frontend y backend para crear aplicaciones completas.
 
 ---
 
 # 🛠️ Tecnologías y herramientas
 
-## Backend
+## 💻 Backend
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=nuget&logoColor=white)
 
-## Frontend
+---
+
+## 🌐 Frontend
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -64,11 +72,15 @@ Combinando conocimientos de frontend y backend para construir aplicaciones compl
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Bases de datos
+---
+
+## 🗄️ Bases de datos
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## DevOps y herramientas
+---
+
+## ⚙️ Herramientas
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -77,31 +89,57 @@ Combinando conocimientos de frontend y backend para construir aplicaciones compl
 
 ---
 
-# 🚀 Proyecto destacado
+# 🚀 Proyectos destacados
 
-## 🧱 Firmeza
+## 🎮 Reaction Time Tester
+
+[![Repositorio](https://img.shields.io/badge/GitHub-Reaction_Time_Tester-181717?style=flat&logo=github)](https://github.com/Danielitux12/reaction-time-tester)
+
+Aplicación web interactiva creada para medir la velocidad de reacción del usuario mediante pruebas basadas en tiempo.
+
+Este proyecto explora la creación de experiencias dinámicas en el navegador, manejo de eventos, temporizadores y lógica de juego.
+
+### ✨ Características
+
+- ⚡ Medición del tiempo de reacción en milisegundos.
+- 🎯 Sistema de estados para controlar el flujo del juego.
+- ⏱️ Manejo preciso de eventos y temporizadores.
+- 🎮 Experiencia inspirada en herramientas utilizadas por jugadores competitivos.
+- 📊 Visualización de resultados y rendimiento del usuario.
+
+### Tecnologías
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+
+---
+
+# 🧱 Firmeza
 
 [![Repositorio](https://img.shields.io/badge/GitHub-Firmeza-181717?style=flat&logo=github)](https://github.com/Danielitux12/Firmeza)
 
-Plataforma de gestión empresarial desarrollada con el objetivo de aplicar buenas prácticas de arquitectura y desarrollo profesional.
+Plataforma de gestión empresarial desarrollada para aplicar conceptos de arquitectura profesional y buenas prácticas de desarrollo.
 
-Características principales:
+### Características
 
-- API REST desarrollada con **ASP.NET Core**
+- API REST desarrollada con ASP.NET Core.
 - Arquitectura separada por capas:
   - Domain
   - Application
   - Infrastructure
   - Web
-- Entity Framework Core para acceso a datos
-- PostgreSQL como base de datos
-- Migraciones automáticas
-- Contenedores Docker
-- Frontend desarrollado con Angular
+- Entity Framework Core para acceso a datos.
+- PostgreSQL como base de datos.
+- Migraciones automáticas.
+- Contenedores Docker.
+- Frontend desarrollado con Angular.
 
-Tecnologías:
+### Tecnologías
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
@@ -110,12 +148,12 @@ Tecnologías:
 
 # 📚 Actualmente aprendiendo
 
-- Clean Architecture en aplicaciones .NET
-- Diseño de APIs escalables
-- Patrones de diseño
-- Testing en aplicaciones backend
-- Integración y despliegue con Docker
-- Mejores prácticas de ingeniería de software
+- Clean Architecture en aplicaciones .NET.
+- Diseño y documentación de APIs REST.
+- Patrones de diseño.
+- Testing en aplicaciones backend.
+- Docker y despliegue de aplicaciones.
+- Mejores prácticas de ingeniería de software.
 
 ---
 
@@ -133,6 +171,7 @@ Tecnologías:
 
 <div align="center">
 
-⭐ Si encuentras algo interesante en mis proyectos, ¡una estrella siempre es bienvenida!
+⭐ Si encuentras interesante alguno de mis proyectos,
+¡una estrella siempre es bienvenida!
 
 </div>
