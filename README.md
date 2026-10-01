@@ -2,12 +2,12 @@
 
 # 👋 ¡Hola! Soy Daniel Isaac Jaraba
 
-### Desarrollador/a de software | Apasionado/a por aprender y construir cosas útiles
+### Software Developer | Full Stack .NET | C# · ASP.NET Core · Angular
 
-![Visitas al perfil](https://komarev.com/ghpvc/?username=TU-USUARIO&label=Visitas&color=0e75b6&style=flat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/TU-USUARIO)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
+Construyo aplicaciones web modernas con arquitectura limpia, APIs REST, bases de datos relacionales y buenas prácticas de desarrollo.
+
+[![Visitas al perfil](https://komarev.com/ghpvc/?username=Danielitux12&label=Visitas&color=512BD4&style=flat)](https://github.com/Danielitux12)
+[![GitHub](https://img.shields.io/badge/GitHub-Danielitux12-181717?style=flat&logo=github&logoColor=white)](https://github.com/Danielitux12)
 
 </div>
 
@@ -15,78 +15,124 @@
 
 ## 🧑‍💻 Sobre mí
 
-- 🔭 Actualmente estoy trabajando en **NOMBRE DEL PROYECTO**
-- 🌱 Estoy aprendiendo **TECNOLOGÍA / LENGUAJE**
-- 🤝 Me gustaría colaborar en proyectos de **TEMA (open source, web, IA, etc.)**
-- 💬 Pregúntame sobre **TEMAS EN LOS QUE PUEDES AYUDAR**
-- 📫 Puedes contactarme en **tu-correo@ejemplo.com**
-- ⚡ Dato curioso: **ALGO DIVERTIDO SOBRE TI**
+Soy desarrollador de software enfocado en crear soluciones web escalables y mantener código limpio, organizado y fácil de evolucionar.
+
+Actualmente estoy especializado en el ecosistema **.NET**, trabajando con **C#**, **ASP.NET Core**, **Entity Framework Core** y **PostgreSQL**, aplicando conceptos como arquitectura en capas, separación de responsabilidades y diseño orientado a objetos.
+
+- 🔭 Actualmente desarrollo **Firmeza**, una plataforma de gestión empresarial con .NET y Angular.
+- 🌱 Profundizando en **Clean Architecture**, **ASP.NET Core**, **Entity Framework Core**, **Docker** y buenas prácticas de backend.
+- 🏗️ Me interesa construir aplicaciones con código mantenible, APIs bien estructuradas y bases de datos eficientes.
+- 💬 Puedo conversar sobre **C#, .NET, ASP.NET Core, PostgreSQL, APIs REST y desarrollo web**.
+- 🤝 Abierto a colaborar en proyectos, aprender nuevas tecnologías y recibir feedback sobre mi código.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🚀 Mi evolución como desarrollador
 
-**Lenguajes**
+Comencé desarrollando aplicaciones web con tecnologías como:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- JavaScript / TypeScript
+- Node.js
+- Express.js
+- PostgreSQL
+
+Actualmente mi principal enfoque está en:
+
+- C#
+- .NET
+- ASP.NET Core
+- Angular
+
+Combinando conocimientos de frontend y backend para construir aplicaciones completas.
+
+---
+
+# 🛠️ Tecnologías y herramientas
+
+## Backend
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=nuget&logoColor=white)
+
+## Frontend
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend y bases de datos**
+## Bases de datos
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Herramientas**
+## DevOps y herramientas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📊 Estadísticas de GitHub
+# 🚀 Proyecto destacado
+
+## 🧱 Firmeza
+
+[![Repositorio](https://img.shields.io/badge/GitHub-Firmeza-181717?style=flat&logo=github)](https://github.com/Danielitux12/Firmeza)
+
+Plataforma de gestión empresarial desarrollada con el objetivo de aplicar buenas prácticas de arquitectura y desarrollo profesional.
+
+Características principales:
+
+- API REST desarrollada con **ASP.NET Core**
+- Arquitectura separada por capas:
+  - Domain
+  - Application
+  - Infrastructure
+  - Web
+- Entity Framework Core para acceso a datos
+- PostgreSQL como base de datos
+- Migraciones automáticas
+- Contenedores Docker
+- Frontend desarrollado con Angular
+
+Tecnologías:
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+
+---
+
+# 📚 Actualmente aprendiendo
+
+- Clean Architecture en aplicaciones .NET
+- Diseño de APIs escalables
+- Patrones de diseño
+- Testing en aplicaciones backend
+- Integración y despliegue con Docker
+- Mejores prácticas de ingeniería de software
+
+---
+
+# 📊 Estadísticas de GitHub
 
 <div align="center">
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danielitux12&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Racha de contribuciones](https://streak-stats.demolab.com/?user=TU-USUARIO&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielitux12&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🚀 Proyectos destacados
-
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| [**Proyecto 1**](https://github.com/TU-USUARIO/proyecto-1) | Breve descripción de lo que hace | React, Node.js |
-| [**Proyecto 2**](https://github.com/TU-USUARIO/proyecto-2) | Breve descripción de lo que hace | Python, Flask |
-| [**Proyecto 3**](https://github.com/TU-USUARIO/proyecto-3) | Breve descripción de lo que hace | TypeScript, Docker |
-
----
-
-## 📝 Últimos artículos (opcional)
-
-- [Título de tu artículo 1](https://tu-blog.com/articulo-1)
-- [Título de tu artículo 2](https://tu-blog.com/articulo-2)
-
----
-
 <div align="center">
 
-⭐ Si algo de lo que ves te gusta, ¡no dudes en dejar una estrella en mis repositorios!
+⭐ Si encuentras algo interesante en mis proyectos, ¡una estrella siempre es bienvenida!
 
 </div>
