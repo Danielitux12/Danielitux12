@@ -1,210 +1,139 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy Daniel Isaac Jaraba
+# Daniel Isaac Jaraba
 
-### Software Developer | Full Stack .NET | C# · ASP.NET Core · Angular
+### Full Stack .NET Developer — C# · ASP.NET Core · Angular · PostgreSQL
 
-Construyo aplicaciones web modernas combinando backend, frontend y buenas prácticas de ingeniería de software.
-
-Me interesa crear soluciones escalables, mantener código limpio y desarrollar productos digitales con una buena experiencia de usuario.
-
-<br>
-
-[![Visitas al perfil](https://komarev.com/ghpvc/?username=Danielitux12&label=Visitas&color=512BD4&style=flat)](https://github.com/Danielitux12)
+Desarrollo aplicaciones web completas aplicando **Clean Architecture**, principios **SOLID** y buenas prácticas de ingeniería de software, desde el backend hasta la experiencia de usuario en el frontend.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Danielitux12-181717?style=flat&logo=github&logoColor=white)](https://github.com/Danielitux12)
+[![Visitas al perfil](https://komarev.com/ghpvc/?username=Danielitux12&label=Visitas&color=512BD4&style=flat)](https://github.com/Danielitux12)
 
 </div>
 
 ---
 
-# 🧑‍💻 Sobre mí
+## 🧑‍💻 Sobre mí
 
-Soy desarrollador de software enfocado en la creación de aplicaciones web completas, desde interfaces interactivas hasta APIs y sistemas backend.
+Soy desarrollador de software especializado en el ecosistema **.NET**, enfocado en construir APIs REST robustas con **Clean Architecture** y conectarlas a interfaces modernas en Angular o React.
 
-Actualmente estoy especializado en el ecosistema **.NET**, trabajando con:
+Mi base técnica combina:
 
-- C#
-- ASP.NET Core
-- Entity Framework Core
-- PostgreSQL
-- Angular
+- **Backend:** C#, ASP.NET Core, Entity Framework Core, PostgreSQL
+- **Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3
+- **Infraestructura:** Docker, Git/GitHub, Linux
 
-También cuento con experiencia utilizando tecnologías del ecosistema JavaScript/TypeScript, lo que me permite comprender y desarrollar soluciones full stack.
+### Actualmente
 
-### Actualmente:
-
-- 🔭 Desarrollo proyectos personales como **Reaction Time Tester** y **Firmeza**.
-- 🌱 Profundizo en **arquitectura limpia, patrones de diseño, APIs REST y desarrollo backend con .NET**.
-- 🐳 Aprendo sobre **Docker, despliegue y automatización de aplicaciones**.
-- 💬 Me interesa conversar sobre **C#, .NET, PostgreSQL, Angular y desarrollo web**.
-- 🤝 Abierto a colaborar en proyectos y seguir mejorando como desarrollador.
+- 🏗️ Construyendo proyectos con Clean Architecture (Domain · Application · Infrastructure · API) en .NET 10.
+- 🔐 Implementando autenticación y autorización con ASP.NET Core Identity y JWT.
+- 🐳 Profundizando en Docker, despliegue y automatización.
+- 🤝 Abierto a colaborar en proyectos backend/full stack en .NET.
 
 ---
 
-# 🚀 Mi evolución como desarrollador
+## 🚀 Proyectos destacados
 
-Mi camino comenzó con el desarrollo web utilizando tecnologías como:
+### 🎬 FrameRent — Plataforma de alquiler de equipos audiovisuales
+[![Repositorio](https://img.shields.io/badge/GitHub-FrameRent-181717?style=flat&logo=github)](https://github.com/Danielitux12/FrameRent)
 
-- JavaScript
-- TypeScript
-- Node.js
-- Express.js
-- PostgreSQL
-- HTML
-- CSS
+API REST construida con **Clean Architecture** en .NET 10, pensada para gestionar el alquiler de equipos audiovisuales.
 
-Con el tiempo fui orientando mi aprendizaje hacia el ecosistema Microsoft:
+- Solución dividida en capas: `Domain`, `Application`, `Infrastructure`, `Api`.
+- Persistencia con Entity Framework Core.
+- Frontend desacoplado en React (repositorio independiente).
+- Flujo de trabajo con convenciones de commits (`chore`, `feat(<capa>)`) por capa completada.
 
-- C#
-- .NET
-- ASP.NET Core
-- Entity Framework Core
-- Angular
-
-Actualmente busco combinar ambos mundos para crear aplicaciones completas, desde la interfaz hasta la infraestructura backend.
+`C#` `.NET 10` `ASP.NET Core` `Entity Framework Core` `Clean Architecture`
 
 ---
 
-# 🛠️ Tecnologías y herramientas
+### 🛠️ SkillHub — Plataforma de talleres e inscripciones
+[![Repositorio](https://img.shields.io/badge/GitHub-SkillHub-181717?style=flat&logo=github)](https://github.com/Danielitux12/SkillHub)
 
-## 💻 Backend
+Proyecto de prueba técnica: plataforma para la gestión de talleres e inscripciones, con **API REST + capa de presentación** sobre Clean Architecture.
 
+- Arquitectura en 4 capas: `SkillHub.Domain`, `SkillHub.Application`, `SkillHub.Infrastructure`, `SkillHub.API`.
+- Autenticación y autorización con Identity y JWT.
+- Base de datos **PostgreSQL** con EF Core (Code First).
+- Capa de presentación en ASP.NET Core MVC.
+- Funcionalidades propias como cambio de contraseña para usuarios.
+
+`C#` `.NET 10` `PostgreSQL` `Identity` `JWT` `Clean Architecture`
+
+---
+
+### 🎮 Reaction Time Tester
+[![Repositorio](https://img.shields.io/badge/GitHub-Reaction_Time_Tester-181717?style=flat&logo=github)](https://github.com/Danielitux12/reaction-time-tester)
+
+Aplicación web interactiva para medir el tiempo de reacción del usuario, enfocada en el manejo de eventos, temporizadores y estados del juego en el navegador.
+
+`TypeScript` `JavaScript` `HTML5` `CSS3`
+
+---
+
+### 🧱 Firmeza — Plataforma de gestión empresarial
+[![Repositorio](https://img.shields.io/badge/GitHub-Firmeza-181717?style=flat&logo=github)](https://github.com/Danielitux12/Firmeza)
+
+API REST desarrollada con ASP.NET Core aplicando una arquitectura por capas (`Domain`, `Application`, `Infrastructure`, `Web`), con frontend en Angular y despliegue vía Docker.
+
+`C#` `.NET` `Angular` `PostgreSQL` `Docker`
+
+---
+
+## 🛠️ Stack tecnológico
+
+**Backend**
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-
 ![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=nuget&logoColor=white)
 
-![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=nuget&logoColor=white)
-
----
-
-## 🌐 Frontend
-
+**Frontend**
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
-
-## 🗄️ Bases de datos
-
+**Bases de datos**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-
-## ⚙️ Herramientas
-
+**Herramientas**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-# 🚀 Proyectos destacados
+## 📚 Enfoque actual de aprendizaje
 
-## 🎮 Reaction Time Tester
-
-[![Repositorio](https://img.shields.io/badge/GitHub-Reaction_Time_Tester-181717?style=flat&logo=github)](https://github.com/Danielitux12/reaction-time-tester)
-
-Aplicación web interactiva creada para medir la velocidad de reacción del usuario mediante pruebas basadas en tiempo.
-
-Este proyecto nació con el objetivo de explorar la creación de experiencias dinámicas en el navegador, manejo de eventos, temporizadores y lógica de interacción.
-
-### ✨ Características
-
-- ⚡ Medición del tiempo de reacción en milisegundos.
-- 🎯 Control de diferentes estados del juego.
-- ⏱️ Manejo de eventos y temporizadores.
-- 🎮 Experiencia inspirada en herramientas utilizadas por jugadores competitivos.
-- 📊 Registro y visualización de resultados.
-
-### Tecnologías
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
-
----
-
-# 🧱 Firmeza
-
-[![Repositorio](https://img.shields.io/badge/GitHub-Firmeza-181717?style=flat&logo=github)](https://github.com/Danielitux12/Firmeza)
-
-Plataforma de gestión empresarial desarrollada aplicando conceptos de arquitectura profesional y buenas prácticas de desarrollo.
-
-El proyecto busca simular un entorno real de software empresarial utilizando separación de responsabilidades y una estructura mantenible.
-
-### ✨ Características
-
-- API REST desarrollada con ASP.NET Core.
-- Arquitectura por capas:
-  - Domain
-  - Application
-  - Infrastructure
-  - Web
-- Entity Framework Core.
-- PostgreSQL como base de datos.
-- Migraciones automáticas.
-- Contenedores Docker.
-- Frontend desarrollado con Angular.
-
-### Tecnologías
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp)
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet)
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-
----
-
-# 📚 Actualmente aprendiendo
-
-- Clean Architecture en aplicaciones .NET.
-- Principios SOLID.
-- Patrones de diseño.
-- Diseño de APIs REST.
+- Clean Architecture y principios SOLID aplicados a proyectos reales en .NET.
+- Diseño de APIs REST y patrones de diseño.
 - Testing en aplicaciones backend.
 - Docker y despliegue de aplicaciones.
-- Mejores prácticas de ingeniería de software.
 
 ---
 
-# 📊 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danielitux12&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielitux12&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
+## 📫 Contacto
+
+[![GitHub](https://img.shields.io/badge/GitHub-Danielitux12-181717?style=flat&logo=github&logoColor=white)](https://github.com/Danielitux12)
+[![Email](https://img.shields.io/badge/Email-danielillo3609%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:danielillo3609@gmail.com)
+
 <div align="center">
 
-⭐ Si encuentras interesante alguno de mis proyectos,
-¡una estrella siempre es bienvenida!
+⭐ Si alguno de mis proyectos te resulta interesante, ¡una estrella siempre es bienvenida!
 
 </div>
