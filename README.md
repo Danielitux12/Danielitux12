@@ -2,9 +2,9 @@
 
 # Daniel Isaac Jaraba
 
-### Full Stack Developer | .NET · C# · Angular · PostgreSQL
+### Full Stack .NET Developer | C# · ASP.NET Core · Angular · PostgreSQL
 
-I build modern web applications and backend solutions using the .NET ecosystem, focusing on **Clean Architecture**, **SOLID principles**, and software engineering best practices.
+I build web applications and backend solutions with a focus on **.NET**, **Clean Architecture**, and maintainable software design. I enjoy turning business requirements into practical solutions through well-structured APIs, relational databases, and modern web interfaces.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Danielitux12-181717?style=flat&logo=github&logoColor=white)](https://github.com/Danielitux12)
 [![Profile Views](https://komarev.com/ghpvc/?username=Danielitux12&label=Profile%20Views&color=512BD4&style=flat)](https://github.com/Danielitux12)
@@ -15,77 +15,90 @@ I build modern web applications and backend solutions using the .NET ecosystem, 
 
 ## 🧑‍💻 About Me
 
-I'm a Software Developer focused on the **.NET ecosystem**, specializing in backend and full stack development.
+I'm a Software Developer focused on the **.NET ecosystem**, with an interest in backend engineering and full stack development.
 
-I enjoy building RESTful APIs, designing maintainable software architectures, and integrating backend services with modern frontend applications using Angular and React.
+I enjoy designing RESTful APIs, working with relational databases, applying object-oriented programming principles, and organizing applications with maintainable architectures. I also work with frontend technologies such as Angular and React to build complete web solutions.
 
-My technical background includes:
+### Technical Focus
 
-- **Backend:** C#, .NET, ASP.NET Core, Entity Framework Core.
+- **Backend:** C#, .NET 10, ASP.NET Core, Entity Framework Core.
 - **Frontend:** Angular, React, TypeScript, JavaScript, HTML5, CSS3.
 - **Databases:** PostgreSQL.
-- **Infrastructure & Tools:** Docker, Git, GitHub, Linux.
+- **Architecture & Practices:** Clean Architecture, SOLID principles, RESTful APIs, object-oriented programming.
+- **Tools & Infrastructure:** Docker, Git, GitHub, Linux.
 
 ### Currently
 
-- 🏗️ Building applications with **Clean Architecture** and .NET.
-- 🔐 Implementing authentication and authorization with ASP.NET Core Identity and JWT.
-- 🧪 Improving backend testing practices with xUnit.
-- 🐳 Exploring Docker, application deployment, and automation.
+- 🏗️ Building backend and full stack applications with **.NET**.
+- 🧩 Applying Clean Architecture and SOLID principles to organize application code.
+- 🔐 Working with authentication and authorization using ASP.NET Core Identity, JWT, and cookie authentication.
+- 🧪 Improving my automated testing practices with xUnit.
+- 🐳 Learning more about containerization and application deployment.
 - 🤝 Open to collaborating on backend and full stack .NET projects.
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🎓 [SkillHub — Workshop & Enrollment Management Platform](https://github.com/Danielitux12/SkillHub)
+
+A workshop management platform built with **.NET 10**. It supports workshop scheduling, participant enrollment, and administrative workflows while enforcing business rules to protect data consistency.
+
+**Architecture**
+- Five-project solution following Clean Architecture: `Domain`, `Application`, `Infrastructure`, `API`, and `Web`.
+- Separation of domain rules, application logic, infrastructure, and presentation.
+- Repository and Unit of Work abstractions.
+
+**Backend & Features**
+- RESTful API developed with ASP.NET Core.
+- Authentication with ASP.NET Core Identity and JWT Bearer tokens for the API.
+- Cookie-based authentication for the ASP.NET Core MVC web application.
+- PostgreSQL persistence with Entity Framework Core and Code First migrations.
+- Workshop capacity validation, duplicate-enrollment prevention, and schedule-conflict rules.
+- Enrollment cancellation rules, including a 24-hour restriction before a workshop starts.
+- Bulk enrollment imports from Excel using ClosedXML.
+- PDF certificate generation with QuestPDF.
+- Workshop reporting and role-based authorization policies.
+
+`C#` `.NET 10` `ASP.NET Core` `Clean Architecture` `EF Core` `PostgreSQL` `Identity` `JWT` `Razor Views` `ClosedXML` `QuestPDF`
+
+---
+
 ### 🧱 [Firmeza — Business Management Platform](https://github.com/Danielitux12/Firmeza)
 
-A business management application built with ASP.NET Core and Angular, following Clean Architecture principles.
+A business management application built with ASP.NET Core and Angular, structured to separate application concerns and support maintainable development.
 
-- Organized architecture with `Domain`, `Application`, `Infrastructure`, and `Web` projects.
-- RESTful API development with ASP.NET Core.
+- Backend API developed with ASP.NET Core.
+- Layered organization with domain, application, infrastructure, and presentation projects.
 - Frontend integration using Angular.
 - PostgreSQL database and Entity Framework Core.
-- Docker-based deployment.
+- Docker-based development and deployment setup.
 
-`C#` `ASP.NET Core` `Angular` `PostgreSQL` `Docker` `Clean Architecture`
+`C#` `ASP.NET Core` `Angular` `PostgreSQL` `Entity Framework Core` `Docker`
 
 ---
 
 ### 🎬 [FrameRent — Audiovisual Equipment Rental Platform](https://github.com/Danielitux12/FrameRent)
 
-A RESTful API designed to manage audiovisual equipment rentals, developed with .NET 10 and Clean Architecture.
+A RESTful API for managing audiovisual equipment rentals, developed with **.NET 10** and Clean Architecture. The frontend is maintained in a separate React application.
 
 - Separation of concerns across `Domain`, `Application`, `Infrastructure`, and `API`.
+- Backend API development with ASP.NET Core.
 - Data persistence with Entity Framework Core.
-- Decoupled frontend application built with React.
-- Structured development workflow with conventional commits.
+- Separate frontend application built with React.
+- Structured development workflow using conventional commits.
 
-`C#` `.NET 10` `ASP.NET Core` `Entity Framework Core` `Clean Architecture`
-
----
-
-### 🛠️ [SkillHub — Workshop and Enrollment Platform](https://github.com/Danielitux12/SkillHub)
-
-A workshop and enrollment management platform developed as a technical assessment, using Clean Architecture and ASP.NET Core.
-
-- Four-layer architecture: `Domain`, `Application`, `Infrastructure`, and `API`.
-- Authentication and authorization with ASP.NET Core Identity and JWT.
-- PostgreSQL database with Entity Framework Core (Code First).
-- Presentation layer built with ASP.NET Core MVC.
-- User management and password change functionality.
-
-`C#` `.NET 10` `PostgreSQL` `Identity` `JWT` `Clean Architecture`
+`C#` `.NET 10` `ASP.NET Core` `Entity Framework Core` `Clean Architecture` `React`
 
 ---
 
 ### 🎮 [Reaction Time Tester](https://github.com/Danielitux12/reaction-time-tester)
 
-An interactive web application inspired by FPS games, designed to measure reaction time through real-time interactions, timers, and game states.
+An interactive browser-based application inspired by FPS games, designed to measure reaction time through timed challenges and game-state interactions.
 
-- Interactive browser-based gameplay.
-- Event handling and timer management.
-- Dynamic game state management.
+- Interactive gameplay and user input handling.
+- Timer management and reaction-time measurement.
+- Dynamic game-state handling in the browser.
 
 `TypeScript` `JavaScript` `HTML5` `CSS3`
 
@@ -96,7 +109,7 @@ An interactive web application inspired by FPS games, designed to measure reacti
 ### Backend
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![EF Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=nuget&logoColor=white)
 
@@ -125,10 +138,9 @@ An interactive web application inspired by FPS games, designed to measure reacti
 ## 📚 Currently Learning
 
 - Software architecture and design patterns in .NET.
-- SOLID principles and maintainable software design.
 - Automated testing with xUnit.
-- Docker and application deployment.
-- Backend performance and scalability.
+- Docker, CI/CD, and application deployment.
+- Backend performance, reliability, and scalability.
 
 ---
 
