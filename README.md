@@ -42,6 +42,8 @@ I'm a Software Developer focused on the **.NET ecosystem**, with a strong intere
 ![Static Badge](https://img.shields.io/badge/status-actively%20developed-success?style=flat)
 ![Static Badge](https://img.shields.io/badge/rebuilt-full%20stack-blueviolet?style=flat)
 
+**[Live Demo](https://reaction-time-tester-seven.vercel.app/)**
+
 A reaction-time trainer built for FPS players, rebuilt from the ground up into a full stack application: **React + TypeScript** on the frontend and **ASP.NET Core + PostgreSQL** on the backend, orchestrated with Docker Compose. What started as a simple browser game is now a proper client-server app with persisted scores and a real API behind it.
 
 **Architecture**
