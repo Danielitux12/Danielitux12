@@ -143,8 +143,8 @@ A business management and invoicing system built with .NET 10 and Clean Architec
 
 <div align="center">
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielitux12&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielitux12&layout=compact&theme=tokyonight&hide_border=true)
+![Daniel's GitHub stats](https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Danielitux12&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Danielitux12&layout=compact&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Danielitux12&theme=tokyonight&hide_border=true)
 
 </div>
